@@ -3,8 +3,8 @@ My coursework from [learnpytorch.io](https://www.learnpytorch.io).
 
 | Section | What does it cover? |
 |---|---|
-| 00 - PyTorch Fundamentals | Many fundamental PyTorch operations used for deep learning and neural networks. |
-| 01 - PyTorch Workflow | Provides an outline for approaching deep learning problems and building neural networks with PyTorch. |
+| [00 - PyTorch Fundamentals](https://github.com/KC-7/learn-pytorch/blob/main/00_pytorch_fundamentals.ipynb) | Many fundamental PyTorch operations used for deep learning and neural networks. |
+| [01 - PyTorch Workflow](https://github.com/KC-7/learn-pytorch/blob/main/01_pytorch_workflow.ipynb) | Provides an outline for approaching deep learning problems and building neural networks with PyTorch. |
 | 02 - PyTorch Neural Network Classification | Uses the PyTorch workflow from 01 to go through a neural network classification problem. |
 | 03 - PyTorch Computer Vision | Let's see how PyTorch can be used for computer vision problems using the same workflow from 01 & 02. |
 | 04 - PyTorch Custom Datasets | How do you load a custom dataset into PyTorch? Also we'll be laying the foundations in this notebook for our modular code (covered in 05). |
